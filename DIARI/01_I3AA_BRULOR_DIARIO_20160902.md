@@ -14,4 +14,4 @@ Dalle 10.05 alle 10.45 i docenti ci hanno fatto un'introduzione al modulo 306 e 
 **Problema**: Ho riscontrato un problema con il programma SourceTree, che mi dava un problema di **proxy**.<br>**Soluzione**: Per risolvere questo problema abbiamo dovuto modificare il file *.gitconfig* (che a sua volta rappresentava un problema, vedi di seguito) inserendo i seguenti dati: <br>   [http]<br>proxy = http://nome.cognome:proxypass@proxy:8080 <br> [https] <br> proxy = https://nome.cognome:proxypass@proxy:8080
 
 
-**Problema**: Una volta intallato SourceTree, nella cartella *C:\users\user\* mancava il file di configurazione *.gitconfig* <br> **Soluzione**: Per risolvere questo problema è bastato andare nella console *GIT Bash* e digitare il seguente comando: <br> git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080 |
+**Problema**: Una volta intallato SourceTree, nella cartella *C:\users\user\* mancava il file di configurazione *.gitconfig* <br> **Soluzione**: Per risolvere questo problema è bastato andare nella console *GIT Bash* e digitare il seguente comando: <br> git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080 
