@@ -18,9 +18,8 @@ Nel pomeriggio ho iniziato a fare l'implemetazione dell'Holder. Sono riuscito so
 
 
 
-## Progrmma di massima per la prossima giornata di lavoro
-Nella prossima lezione dovrò continuare i l'implementazione, facendo i bordi dell'Holder ed i separatori interni..
-<br><br>
-**--HACKED BY TRKChromium--**
+## Programma di massima per la prossima giornata di lavoro
+Nella prossima lezione dovrò continuare l'implementazione, facendo i bordi dell'Holder ed i separatori interni.
+
 
 
