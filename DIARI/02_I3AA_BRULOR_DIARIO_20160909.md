@@ -26,7 +26,7 @@ Attacchi USB<br>
 Tempistica<br>
 Alimentazione<br>
 
-## Progrmma di massima per la prossima giornata di lavoro
+## Programma di massima per la prossima giornata di lavoro
 
 La prossima settimana dovrò, assieme al gruppo del progetto, fare un intervista al nostro responsabile, nella quale chiederemo dettagli riguardanti le esigenze sul progetto.
 
