@@ -16,7 +16,7 @@ Per tutto il poeriggio ho coninuato a fare il modello dell'holder, ma con scarsi
 
 
 
-## Progrmma di massima per la prossima giornata di lavoro
+## Programma di massima per la prossima giornata di lavoro
 Nella prossima lezione dovrò finire la progettazione e magari potrò già iniziare a creare l'holder.
 
 
